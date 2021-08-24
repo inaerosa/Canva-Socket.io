@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#tela{
+    width: 700px;
+    height: 500px;
+    border: 1px solid;
+    margin-left: 0px;
+}
+
+
+#vermelho{
+    border: 10px solid red;
+}
+
+#azul {
+    border: 10px solid blue;
+}
+
+#preto {
+    border: 10px solid black;
+}
+
+#fina{
+    border: 2px solid black;
+    width: 20px;
+
+}
+
+#media{
+    border: 5px solid black;
+    width: 20px;
+}
+
+#grossa{
+    border: 8px solid black;   
+    width: 20px;
+}
+
+
+
+#botoes{
+    margin-left: 25%;
+}
